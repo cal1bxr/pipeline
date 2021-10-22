@@ -5,7 +5,7 @@
 	<groupId>com.revature</groupId>
 	<artifactId>HelloJavalin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HelloJavalin</name>
+	<name>HelloJavalinPipeline</name>
 	<description>Introduction to using Javalin as a web server. </description>
 
 	<properties>
