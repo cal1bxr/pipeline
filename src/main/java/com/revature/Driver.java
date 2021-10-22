@@ -8,7 +8,7 @@ public class Driver {
 
 		//We first need to create a Javalin object and run the start method to start listening for HTTP requests.
 		//start takes the port number as a param
-		Javalin app = Javalin.create().start(8080);
+		Javalin app = Javalin.create().start(8081);
 		
 		/*
 		 * This .get method will map GET requests to the endpoint that is given as the first Param to be handled
